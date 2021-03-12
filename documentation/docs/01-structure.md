@@ -2,7 +2,7 @@
 
 
 ---
-Title: SvelteKit App Structure
+# Title: SvelteKit App Structure
 ---
 
 If you take a look inside a new SvelteKit project, you will see some files that SvelteKit expects to find:
